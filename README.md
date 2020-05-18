@@ -21,6 +21,7 @@ Data provided in the 'Dataset' folder are csv files containing reviews with thei
     - This Notebook is used for classification of w2v with either Neural Network classifier or SVM
   - <b>accuracy.ipynb</b>
     - This Notebook includes a method to help calculated class wide accuracy from a confusion matrix.
+  - Unitility Notebooks are included in the util folder, which helps to generate and read various embeddings.
   - Detaile instructions are included in the Notebook
  
 Two python files are included to help with the embedding processing and classification. Parameters in the [NeuralNetClassifier.py] can be adjusted for further testing.
