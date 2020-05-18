@@ -12,7 +12,9 @@
     - sent2vec: [Pre-trained models](https://github.com/epfml/sent2vec#downloading-sent2vec-pre-trained-models)
     - BERT: [BERT-Base, Uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
-Data provided in the 'Dataset' folder are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing.
+* [Yelp!](https://www.yelp.com/dataset/) and [Zappos](https://ppgweb.s3.us-east-1.amazonaws.com/share/reviews_shoes.tar.bz2) datasets are used for the analysis in the project (full datasets can be downloaded by clicking on the correpsonding name.
+* Following datasets are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing.
+  - [Yelp!](
 
 * Following Jupyter Notebooks are included:
   - <b>s2v-bert-tfif.ipynb</b>
