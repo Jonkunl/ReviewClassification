@@ -14,7 +14,8 @@
 
 * [Yelp!](https://www.yelp.com/dataset/) and [Zappos](https://ppgweb.s3.us-east-1.amazonaws.com/share/reviews_shoes.tar.bz2) datasets are used for the analysis in the project (full datasets are included in the link).
 * Following datasets are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing.
-  - [Yelp!](
+  - [Yelp!](https://drive.google.com/drive/folders/1bVIy2jpYiLmOkzAkxJhcqPx4iTi91U7p?usp=sharing)
+  - [Zappos] (https://drive.google.com/drive/folders/1oFkUZtpG34y-Os4AB_RP0eRAEIF5nMrJ?usp=sharing)
 
 * Following Jupyter Notebooks are included:
   - <b>s2v-bert-tfif.ipynb</b>
