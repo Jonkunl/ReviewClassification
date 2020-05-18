@@ -13,7 +13,7 @@
     - BERT: [BERT-Base, Uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
 * [Yelp!](https://www.yelp.com/dataset/) and [Zappos](https://ppgweb.s3.us-east-1.amazonaws.com/share/reviews_shoes.tar.bz2) datasets are used for the analysis in the project (full datasets are included in the link).
-* Following datasets are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing.
+* Following datasets are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing. (The naming conversion except Yelp.csv and Zappos.csv is as follow: [embedding modeol]-[training corpus]-[training or test and validate])
   - [Yelp!](https://drive.google.com/drive/folders/1bVIy2jpYiLmOkzAkxJhcqPx4iTi91U7p?usp=sharing)
   - [Zappos](https://drive.google.com/drive/folders/1oFkUZtpG34y-Os4AB_RP0eRAEIF5nMrJ?usp=sharing)
 
