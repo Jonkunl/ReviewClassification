@@ -24,5 +24,5 @@ Data provided in the 'Dataset' folder are csv files containing reviews with thei
   - Unitility Notebooks are included in the util folder, which helps to generate and read various embeddings.
   - Detaile instructions are included in the Notebook
  
-Two python files are included to help with the embedding processing and classification. Parameters in the [NeuralNetClassifier.py] can be adjusted for further testing.
+Two python files are included to help with the embedding processing and classification. Parameters in the <b>NeuralNetClassifier.py</b> can be adjusted for further testing.
 
