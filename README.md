@@ -15,10 +15,12 @@
 Data provided in the 'Dataset' folder are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing.
 
 * Following Jupyter Notebooks are included:
-  - s2v and Bert
-    - This Notebook is used for classification of s2v and BERT embedding with either Neural Network classifier or SVM
-  - word2vec
+  - <b>s2v-bert-tfif.ipynb</b>
+    - This Notebook is used for classification of s2v, BERT and Tf-idf embedding with either Neural Network classifier or SVM
+  - <b>word2vec.ipynb</b>
     - This Notebook is used for classification of w2v with either Neural Network classifier or SVM
+  - <b>accuracy.ipynb</b>
+    - This Notebook includes a method to help calculated class wide accuracy from a confusion matrix.
   - Detaile instructions are included in the Notebook
  
 Two python files are included to help with the embedding processing and classification. Parameters in the [NeuralNetClassifier.py] can be adjusted for further testing.
