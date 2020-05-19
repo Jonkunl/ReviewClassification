@@ -16,8 +16,7 @@
 * Following datasets are csv files containing reviews with their corresponding embedding vectors and labels, which can be used for training and predicting without further processing. (The naming conversion except Yelp.csv and Zappos.csv is as follow: [embedding modeol]-[training corpus]-[training or test and validate])
   - [Yelp!](https://drive.google.com/drive/folders/1bVIy2jpYiLmOkzAkxJhcqPx4iTi91U7p?usp=sharing)
   - [Zappos](https://drive.google.com/drive/folders/1oFkUZtpG34y-Os4AB_RP0eRAEIF5nMrJ?usp=sharing)
-  
-  all datasets used will be fully uploaded by 19.05.2020
+ 
 
 * Following Jupyter Notebooks are included:
   - <b>s2v-bert-tfif.ipynb</b>
